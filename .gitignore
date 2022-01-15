@@ -1,0 +1,4 @@
+data/
+.ipynb_checkpoints/
+.workspace-config.json
+.DS_Store
